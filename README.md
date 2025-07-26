@@ -25,7 +25,7 @@ This tool addresses the problem of corrupted videos where frames have been shuff
 1. Clone this repository:
 ```bash
 git clone https://github.com/TapasKumarDutta1/Organize_shuffled_video.git
-cd video-frame-organizer
+cd Organize_shuffled_video
 ```
 
 2. Install dependencies:
