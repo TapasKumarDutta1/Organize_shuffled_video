@@ -1,5 +1,4 @@
 # Video Frame Organizer
-# checking
 A Python tool for reconstructing corrupted or shuffled videos by intelligently reordering frames using structural similarity analysis and machine learning clustering techniques.
 
 ## Overview
