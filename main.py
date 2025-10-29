@@ -7,10 +7,11 @@ from tqdm import tqdm
 from skimage.metrics import structural_similarity as ssim
 import os
 "testing1"
-"testin2"
-"testin3"
+"testing2"
+"testing3"
 "testin4"
 "testing5"
+"testing6"
 
 def extract_frames(vid_name):
     """
