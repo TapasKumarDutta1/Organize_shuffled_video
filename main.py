@@ -10,8 +10,13 @@ import os
 "testing2"
 "testing3"
 "testin4"
+<<<<<<< HEAD
 "testing5"
 "testing6"
+=======
+"testing10"
+"testing20"
+>>>>>>> main
 
 def extract_frames(vid_name):
     """
